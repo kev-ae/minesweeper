@@ -1,5 +1,5 @@
 
-# CSCI 1302 - Minesweeper Alpha v2020.sp
+# Minesweeper
 
 ![Approved for: Spring 2020](https://img.shields.io/badge/Approved%20for-Spring%202020-blue)
 
